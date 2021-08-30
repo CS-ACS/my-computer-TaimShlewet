@@ -1,4 +1,5 @@
-# *My Computer*
+![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/Screen%20Shot%202021-08-30%20at%205.21.01%20PM.png)
+# Aspects of My Computer's Hardware Configuration.
 ### Brand and Model Name/Number
 ![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/rsz_1rsz_png-transparent-black-small-apple-logo-logo-material-apple-logo-black.png)MacBook Air
 ### Operating System
