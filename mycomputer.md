@@ -24,5 +24,5 @@
 *https://support.apple.com/en-jo/guide/system-information/syspr35536/mac* and About This Mac on laptop
 
 ## My Relationship With My Computer:
-
+**I'm really happy with my computer. Recently I've been using it for schoolwork only and there's nothing wrong with it and it does everything well. I've had it for around 6 years since I bought it in London when I was traveling, right before 5th grade started.**
 ![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/IMG_3555.PNG)
