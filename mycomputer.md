@@ -26,6 +26,6 @@
 ## My Relationship With My Computer:
 **I'm really happy with my computer. Recently I've been using it for schoolwork only and there's nothing wrong with it and it does everything well. I've had it for around 6 years since I bought it in London when I was traveling, right before 5th grade started. I've never dropped it or broken it in anyway since I got it.**
 ## How My Computer's Performance is Affected By Its Hardware Configuration
-**My computer starts to heat up and slow down when I play games on my laptop. I think this is because of the CPU, the CPU processes data and the output of games slower than the latest laptop with a better CPU, mine is only 1.6hz while there are many higher ones today. So games I've dowloaded on my laptop will be slow and get my laptop to heat up if the game is too big and has a lot of data. **
+**My computer starts to heat up and slow down when I play games on my laptop. I think this is because of the CPU, the CPU processes data and the output of games slower than the latest laptop with a better CPU, mine is only 1.6hz while there are many higher ones today. So games I've dowloaded on my laptop will be slow and get my laptop to heat up if the game is too big and has a lot of data.**
 
 ![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/IMG_3555.PNG)
