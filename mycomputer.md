@@ -15,10 +15,9 @@
 ### Operating System
 * MacOS Sierra 
 ### CPU + RAM
-| CPU | Ram |
+| CPU | RAM |
 | ----------- | ----------- |
 | 1.6GHz dual-core Intel Core i5 | 8GB |
-* 1.6GHz dual-core Intel Core i5 (Turbo Boost up to 2.7GHz) with 3MB shared L3 cache
 ### Storage (HDD/SSD/Flash/etc.)
 * 128GB PCIe-based Flash Storage
 ### Wireless (Wi-Fi/Bluetooth)
