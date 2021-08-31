@@ -38,7 +38,7 @@
 #### *RAM*
 ![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/purepng.com-ramelectronicsram-941524673788z0ok7.png)
 
-  **My laptops starts to slow down sometimes because of the RAM. My laptop's RAM is 8GB which is the average RAM you find on a laptop. Meanwhile MacBook Pros come with 16 GB RAM and Gameing laptops come with 16, 32, and 64GB of Ram. The issue that is caused by the 8GB RAM is when I have many things open, and I start switching between them. This starts slowing down my laptop as too many things are open to be controlled by the RAM which is faster and the data inside easily accesible but temporary storage, so when full my laptop will slow down as it will be overloaded and won't be able to hold all the data, and will began circulating the data using the hard disk so that it can keep up with what I'm doing, and as a result it makes my laptop slower.**
+**‎My laptops starts to slow down sometimes because of the RAM. My laptop's RAM is 8GB which is the average RAM you find on a laptop. Meanwhile MacBook Pros come with 16 GB RAM and Gameing laptops come with 16, 32, and 64GB of Ram. The issue that is caused by the 8GB RAM is when I have many things open, and I start switching between them. This starts slowing down my laptop as too many things are open to be controlled by the RAM which is faster and the data inside easily accesible but temporary storage, so when full my laptop will slow down as it will be overloaded and won't be able to hold all the data, and will began circulating the data using the hard disk so that it can keep up with what I'm doing, and as a result it makes my laptop slower.**
 
 
 
