@@ -1,5 +1,15 @@
 ![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/Screen%20Shot%202021-08-30%20at%205.21.01%20PM.png)
-# Aspects of My Computer's Hardware Configuration.
+# Aspects of My Computer's Hardware Configuration. 🖥
+
+
+
+
+
+
+
+
+
+
 ### Brand and Model Name/Number
 ![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/rsz_1rsz_png-transparent-black-small-apple-logo-logo-material-apple-logo-black.png)MacBook Air
 ### Operating System
@@ -29,7 +39,7 @@
 #### *CPU*
 ![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/51ZMybQM3cL._AC_SS450_.png)
 
-**My computer starts to heat up and slow down when I play games on my laptop. I think this is because of the CPU, the CPU processes data and the output of games slower than the latest laptop with a better CPU, mine is only 1.6hz while there are many higher ones today. So games I've dowloaded on my laptop will be slow and get my laptop to heat up if the game is too big and has a lot of data.** 
+**My computer starts to heat up and slow down when I play games on my laptop. I think this is because of the CPU, the CPU processes data and the output of games slower than the latest laptop with a better CPU, mine is only 1.6hz while there are many higher ones today. So games I've dowloaded on my laptop will be slow and get my laptop to heat up if the game is too big and has a lot of data. So if I had a laptop with a higher CPU, such as a gaming laptop or pc which are specifically built for games I would be able to play comfortably because of the high CPU they have.** 
 #### *Wi-Fi*
 ![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/2cd43b_7ac9dc5f94454be99cfeeff262bc0dd2_mv2.png)
 
