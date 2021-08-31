@@ -14,8 +14,8 @@
 ### Wireless (Wi-Fi/Bluetooth)
 * 802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible
 * Bluetooth 4.0 wireless technology
-### Ports
-| Ports |
+
+| **Ports** |
 | ----------- |
 | Two USB 3 ports (up to 5GB per second) |
 | Thunderbolt 2 port (up to 20GB per second) |
