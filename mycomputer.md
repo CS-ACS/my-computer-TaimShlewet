@@ -15,11 +15,14 @@
 * 802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible
 * Bluetooth 4.0 wireless technology
 ### Ports
-* Two USB 3 ports (up to 5GB per second)
-* Thunderbolt 2 port (up to 20GB per second)
-* MagSafe 2 power port
-* SDXC card slot
-* 3.5 mm headphone jack
+| Ports |
+| ----------- |
+| Two USB 3 ports (up to 5GB per second) |
+| Thunderbolt 2 port (up to 20GB per second) |
+| MagSafe 2 power port |
+| SDXC card slot |
+| 3.5 mm headphone jack |
+
 
 #### *Sources:*
 *https://support.apple.com/kb/sp714?locale=en_JO* and About This Mac on laptop
