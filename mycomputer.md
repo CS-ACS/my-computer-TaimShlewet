@@ -14,7 +14,10 @@
 ![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/rsz_1rsz_png-transparent-black-small-apple-logo-logo-material-apple-logo-black.png)MacBook Air
 ### Operating System
 * MacOS Sierra 
-### CPU
+### CPU + RAM
+| CPU | Ram |
+| ----------- | ----------- |
+| Intel Core i5 | 8GB |
 * 1.6GHz dual-core Intel Core i5 (Turbo Boost up to 2.7GHz) with 3MB shared L3 cache
 ### RAM
 *8GB
@@ -49,11 +52,5 @@
 ![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/purepng.com-ramelectronicsram-941524673788z0ok7.png)
 
 **My laptops starts to slow down sometimes because of the RAM. My laptop's RAM is 8GB which is the average RAM you find on a laptop. Meanwhile MacBook Pros come with 16 GB RAM and Gameing laptops come with 16, 32, and 64GB of Ram. The issue that is caused by the 8GB RAM is when I have many things open, and I start switching between them. This starts slowing down my laptop as too many things are open to be controlled by the RAM which is faster and the data inside easily accesible but temporary storage, so when full my laptop will slow down as it will be overloaded and won't be able to hold all the data, and will began circulating the data using the hard disk so that it can keep up with what I'm doing, and as a result it makes my laptop slower.**
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
 
 ![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/IMG_3555.PNG)
