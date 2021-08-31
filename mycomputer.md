@@ -1,23 +1,14 @@
 ![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/Screen%20Shot%202021-08-30%20at%205.21.01%20PM.png)
 # Aspects of My Computer's Hardware Configuration. 🖥
 
-
-
-
-
-
-
-
-
-
 ### Brand and Model Name/Number
 ![alt text](https://github.com/TaimShlewet/IMAGES-/blob/main/rsz_1rsz_png-transparent-black-small-apple-logo-logo-material-apple-logo-black.png)MacBook Air
 ### Operating System
 * MacOS Sierra 
-### CPU + RAM
-| CPU | RAM |
-| ----------- | ----------- |
-| 1.6GHz dual-core Intel Core i5 | 8GB |
+### CPU
+* 1.6GHz dual-core Intel Core i5 (Turbo Boost up to 2.7GHz) with 3MB shared L3 cache
+### RAM
+* 8GB
 ### Storage (HDD/SSD/Flash/etc.)
 * 128GB PCIe-based Flash Storage
 ### Wireless (Wi-Fi/Bluetooth)
